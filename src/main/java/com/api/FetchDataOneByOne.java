@@ -114,6 +114,7 @@ public class FetchDataOneByOne {
 		for(String o : l) {
 			System.out.println(o);
 		}
+		
 		for(int i=0; i<l.size(); i++) {
 			List<Object> l2 = js.getList("adress["+i+"].city");
 			for(Object sp : l2) {

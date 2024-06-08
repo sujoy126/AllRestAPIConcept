@@ -16,7 +16,7 @@ public class FetchDataWithCondition {
     "adress": [
       {
         "city": "kolkata",
-        "state": "india"
+        "state": "Telengana"
       },
       {
         "city": "patna",

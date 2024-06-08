@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.pojo.api.ArrayInsideObjectExecution">
+      <class name="com.api.MultiopleBodyValidate">
         <methods>
-          <include name="main"/>
+          <include name="m1"/>
         </methods>
-      </class> <!-- com.pojo.api.ArrayInsideObjectExecution -->
+      </class> <!-- com.api.MultiopleBodyValidate -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
